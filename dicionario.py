@@ -185,4 +185,4 @@ while True:
             print(funcionario.values())
     else:
         print("programa encerrado")
-        breakS
+        break
